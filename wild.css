@@ -1,0 +1,15 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: black;
+}
+.stage directions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: brown;
+}
+.name{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    color: coral;
+}
