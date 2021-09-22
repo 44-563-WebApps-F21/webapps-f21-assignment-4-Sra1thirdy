@@ -17,5 +17,42 @@
     color: darksalmon;
 }
 .SIR_ROBERT_CHILTERN {
-    color: deeppink;
+    color:deeppink
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #8d3232;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #5c3ca8;
+}
+h5:hover {
+    background-color: yellow;
+    text-shadow: firebrick;
+}
+ul.navbar-horizontal
+ {
+    list-style-type: none;margin: 0;padding: 0;
+}
+ul.navbar-horizontal li
+ {
+     float:left; 
+     color:#000;
+     background-color:rgb(68, 189, 236)
+    }
+    ul.navbar-horizontal a 
+    {
+        display:block;padding:8px
+      
+        ul.navbar-horizontal a:hover 
+        {
+              background-color: #555;color:white;}
